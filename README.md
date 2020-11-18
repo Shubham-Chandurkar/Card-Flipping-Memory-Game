@@ -1,4 +1,4 @@
-# Card-Flipping-Memory-Game
+# Card-Flipping-Memory-Game (amazing game)
 Rules to play Flipping card game.  
 1. When the game starts, all cards are turned face down. 
 2. The player then flips over two cards, selecting them by clicking on them. 
